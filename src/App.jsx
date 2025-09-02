@@ -1,5 +1,6 @@
 import DataImage from "./data";
 import { listTools, listProyek } from "./data";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 
 function App() {
   return (
@@ -267,6 +268,8 @@ function App() {
         </form>
       </div>
       {/* end kontak section */}
+
+      <SpeedInsights />
     </>
   );
 }
