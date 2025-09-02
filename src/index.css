@@ -1,0 +1,9 @@
+/* src/index.css */
+@import "tailwindcss";
+
+@layer base {
+  /* Custom global styles can be added here */
+  body {
+    font-family: "Poppins", sans-serif;
+  }
+}
