@@ -8,7 +8,7 @@ function App() {
       <div className="hero grid md:grid-cols-2 items-center pt-10 xl:gap-0 gap-6 grid-cols-1">
         <div className="animate__animated animate__fadeInUp animate__delay-2s">
           <div className="flex items-center gap-3 mb-6 bg-zinc-800 w-fit p-4 rounded-2xl">
-            <q>Jangan Sampai Kehidupan Menggangu Keimanan</q>
+            <q>Jangan Sampai Kehidupan Mengganggu Keimanan</q>
           </div>
           <h1 className="text-5xl/tight font-bold mb-6">Aditya Diaz Illyasa</h1>
           <p className="text-base/loose mb-6 opacity-50">
