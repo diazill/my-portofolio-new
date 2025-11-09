@@ -170,46 +170,56 @@ export const listTools = [
   },
 ];
 
-import Proyek1 from "/assets/proyek/webfik.png";
-import Proyek2 from "/assets/proyek/webfb.png";
-import Proyek3 from "/assets/proyek/cms.png";
-import Proyek4 from "/assets/proyek/portofoliov1.png";
+import Proyek1 from "/assets/proyek/webfik.webp";
+import Proyek2 from "/assets/proyek/webfb.webp";
+import Proyek3 from "/assets/proyek/cms.webp";
+import Proyek4 from "/assets/proyek/portofoliov1.webp";
+import Proyek5 from "/assets/proyek/webmir.webp";
 
 export const listProyek = [
   {
     id: 1,
+    gambar: Proyek5,
+    nama: "Website MIR Pakan Ternak & Petshop",
+    desk: "Website MIR Pakan Ternak dibuat sebagai sarana informasi dan katalog digital bagi pelanggan untuk menemukan berbagai jenis pakan ternak, perlengkapan hewan, serta layanan toko seperti pesan antar dan ambil di tempat. Tampilan website dirancang sederhana, cepat diakses, dan mudah dipahami, sehingga memudahkan pengunjung dalam mencari produk dan mengetahui jam operasional maupun opsi layanan yang tersedia.",
+    tools: ["React", "Tailwind CSS", "Vite", "JavaScript"],
+    dad: "200",
+    link: "https://mirshop.vercel.app/",
+  },
+  {
+    id: 2,
     gambar: Proyek1,
     nama: "Website Fakultas Ilmu Kesehatan Universitas Setia Budi",
     desk: "Website Fakultas Ilmu Kesehatan Universitas Setia Budi adalah portal resmi yang menampilkan profil fakultas, program studi, kegiatan akademik, layanan mahasiswa, penelitian, serta informasi fasilitas. Website ini dirancang responsif, modern, dan informatif, dengan navigasi yang jelas untuk memudahkan mahasiswa, dosen, dan masyarakat dalam mengakses informasi terkait FIK USB.",
     tools: ["Laravel", "Bootstrap", "Mysql", "PHP"],
-    dad: "200",
+    dad: "300",
     link: "https://fik.setiabudi.ac.id",
   },
   {
-    id: 2,
+    id: 3,
     gambar: Proyek2,
     nama: "Website Fakultas Bisnis Universitas Setia Budi",
     desk: "Website Fakultas Bisnis Universitas Setia Budi adalah portal resmi yang menyajikan informasi profil fakultas, program studi, akademik, mahasiswa & alumni, penelitian, serta kerja sama. Website ini menampilkan desain profesional, navigasi yang jelas, dan konten terstruktur untuk mendukung kebutuhan mahasiswa, dosen, dan stakeholder dalam mengakses informasi tentang Fakultas Bisnis USB.",
     tools: ["Laravel", "Bootstrap", "Mysql", "PHP"],
-    dad: "300",
+    dad: "400",
     link: "https://fakultasbisnis.setiabudi.ac.id/",
   },
   {
-    id: 3,
+    id: 4,
     gambar: Proyek3,
     nama: "Website CMS Universitas Setia Budi",
     desk: "Website CMS Universitas Setia Budi adalah platform manajemen konten yang dirancang untuk memudahkan pengelolaan informasi akademik dan administratif di lingkungan universitas. Website ini menyediakan fitur-fitur seperti pengelolaan berita, artikel, dokumen, serta integrasi dengan sistem akademik lainnya. Dengan antarmuka yang user-friendly, website ini memungkinkan staf dan dosen untuk memperbarui konten secara efisien dan efektif.",
     tools: ["Laravel", "Bootstrap", "Mysql", "PHP"],
-    dad: "400",
+    dad: "500",
     link: "https://cms.setiabudi.ac.id/",
   },
   {
-    id: 4,
+    id: 5,
     gambar: Proyek4,
     nama: "Portofolio Versi 1 ",
     desk: "Ini adalah versi pertama dari portofolio saya yang dibuat menggunakan HTML, CSS, dan Bootstrap sebagai framework. Portofolio ini saya buat saat awal belajar web development ",
     tools: ["Html", "CSS", "Bootstrap"],
-    dad: "500",
+    dad: "600",
     link: "https://diazill.github.io/",
   },
 ];
