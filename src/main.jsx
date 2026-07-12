@@ -9,6 +9,7 @@ import Preloader from "./components/Preloader.jsx";
 import "animate.css";
 import AOS from "aos";
 import "aos/dist/aos.css"; // You can also use <link> for styles
+import "./i18n";
 AOS.init();
 
 createRoot(document.getElementById("root")).render(

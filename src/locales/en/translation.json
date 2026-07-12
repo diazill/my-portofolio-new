@@ -1,0 +1,38 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "quote": "Don't let worldly life disturb your faith",
+    "desc": "I am a programmer with an interest in web and desktop development. Having more than 2 years of experience in helping companies develop and optimize application systems to support business needs.",
+    "downloadCv": "Download CV",
+    "viewProjects": "View Projects"
+  },
+  "about": {
+    "desc": "Hello, I'm Adit. The programming world first caught my attention due to curiosity about how applications help people complete their tasks. Since then, I've delved into web and desktop development. Over my 2+ years working as a developer, I've been involved in developing various enterprise application systems, from feature design and module creation to implementation and maintenance. I believe every line of code written should have a purpose: to make work faster, easier, and more beneficial.",
+    "projectsCompleted": "Projects Completed",
+    "yearsExperience": "Years of Experience",
+    "toolsTitle": "Tools Used",
+    "toolsDesc": "Here are the tools I usually use for creating websites or applications"
+  },
+  "projects": {
+    "title": "Projects",
+    "desc": "Here are some projects I have built.",
+    "readMore": "Read More",
+    "showLess": "Show Less",
+    "visitWebsite": "Visit Website"
+  },
+  "contact": {
+    "title": "Contact",
+    "desc": "Let's connect",
+    "fullName": "Full Name",
+    "enterName": "Enter Name..",
+    "email": "Email",
+    "enterEmail": "Enter Email..",
+    "message": "Message",
+    "sendMessage": "Send Message"
+  }
+}

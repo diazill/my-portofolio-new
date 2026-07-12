@@ -1,0 +1,38 @@
+{
+  "navbar": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "projects": "Proyek",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "quote": "Jangan Sampai Kehidupan Mengganggu Keimanan",
+    "desc": "Saya seorang programmer dengan ketertarikan pada web development dan desktop development. Memiliki pengalaman lebih dari 2 tahun dalam membantu perusahaan mengembangkan dan mengoptimalkan sistem aplikasi untuk mendukung kebutuhan bisnis.",
+    "downloadCv": "Download CV",
+    "viewProjects": "Lihat Proyek"
+  },
+  "about": {
+    "desc": "Perkenalkan, saya Adit. Dunia programming pertama kali menarik perhatian saya karena rasa ingin tahu bagaimana sebuah aplikasi dapat membantu banyak orang menyelesaikan pekerjaannya. Dari situlah saya mendalami web development dan desktop development. Selama lebih dari 2 tahun bekerja sebagai developer, saya ikut terlibat dalam pengembangan berbagai sistem aplikasi perusahaan, mulai dari perancangan fitur, pembuatan modul, hingga implementasi dan pemeliharaan. Saya percaya bahwa setiap baris kode yang ditulis seharusnya memiliki tujuan: membuat pekerjaan lebih cepat, lebih mudah, dan lebih bermanfaat.",
+    "projectsCompleted": "Proyek Selesai",
+    "yearsExperience": "Tahun Pengalaman",
+    "toolsTitle": "Tools yang dipakai",
+    "toolsDesc": "Berikut ini tools yang biasa saya pakai untuk pembuatan website ataupun aplikasi"
+  },
+  "projects": {
+    "title": "Proyek",
+    "desc": "Berikut ini beberapa proyek yang saya buat.",
+    "readMore": "Selengkapnya",
+    "showLess": "Sembunyikan",
+    "visitWebsite": "Lihat Website"
+  },
+  "contact": {
+    "title": "Kontak",
+    "desc": "Mari terhubung dengan saya",
+    "fullName": "Nama Lengkap",
+    "enterName": "Masukan Nama..",
+    "email": "Email",
+    "enterEmail": "Masukan Email..",
+    "message": "Pesan",
+    "sendMessage": "Kirim Pesan"
+  }
+}
